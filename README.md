@@ -1,5 +1,8 @@
-1. About Me  
-I am Mohammed Bakhit, an Infrastructure & DevOps Engineer.  
+NEW PROJECT
+
+
+
+ an Infrastructure & DevOps Engineer.  
 I focus on building reliable systems, automation, and scalable cloud environments that simplify operations and improve performance.
 
 2. Technologies I Work With  
@@ -36,11 +39,8 @@ https://github-readme-stats.vercel.app/api?username=bakhit23&show_icons=true&the
 https://github-readme-stats.vercel.app/api/top-langs/?username=bakhit23&layout=compact&theme=dark  
 
 7. Contact Information  
-LinkedIn: https://linkedin.com/in/mohammed-bakhit-7533a2232  
-Email: mohammedbakhit123@gmail.com
-       m.bakhit@sd.zain.com  
-Location: United Arab Emirates  
+LinkedIn: https://linkedin.com/in/mohammed-bakhit-75
 
-   Summary  
-Always focused on continuous improvement, learning, and building solutions that enhance the efficiency, automation, and security of infrastructure operations.
 
+
+Always focused on continuous improvement, learning, and building solutions that enhance the efficiency, automation, and security 
